@@ -1,7 +1,7 @@
 # Pollka
 A basic Polling app developed using Django package on Python.
 
-This repositroy contains all files that build up an entire polling application. 
+This repository contains all files that build up an entire polling application. 
 It is an implementation of django tutorial's guide to start building apps. 
 
 Access admin page by invoking manage.py to connect to server by `runserver` command.
