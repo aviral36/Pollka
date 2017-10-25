@@ -12,3 +12,5 @@ Start polling by switching to http://127.0.0.1:8000/polls/
 
 ### NOTE: DO NOT CLOSE CMD WHILE SERVER IS RUNNING.
 To exit the server, press CTRL+C on cmd.
+
+##### That's it! Get going!
