@@ -1,4 +1,4 @@
-# Pollka
+# Pollka [![HitCount](http://hits.dwyl.com/aviral36/Pollka.svg)](http://hits.dwyl.com/aviral36/Pollka) [![Build Status](https://travis-ci.org/aviral36/Pollka.png?branch=master)](https://travis-ci.org/aviral36/Pollka)
 A basic Polling app developed using Django package on Python.
 
 This repository contains all files that build up an entire polling application. 
